@@ -19,5 +19,5 @@ Aplicación para buscar y gestionar libros usando la API de Gutendex (Proyecto G
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/challenalura.git
+https://github.com/huahuaccapa/APILibreria.git
 cd challenalura
